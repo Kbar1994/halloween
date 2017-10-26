@@ -1,0 +1,16 @@
+html, body {
+  margin: 5px;
+  max-width: 1000px;
+  background-color: orange;
+}
+.intro {
+  font-size: 20px;
+  color: black;
+}
+.intro blockquote {
+  color: red;
+  font-style: italic;
+}
+.spooky-phrase {
+  color: blue;
+}
